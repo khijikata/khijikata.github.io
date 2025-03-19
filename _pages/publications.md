@@ -13,8 +13,8 @@ author_profile: true
 - **Hijikata, K.**, & Okada, K. (2023). Rotation in constrained joint maximum likelihood estimation for multidimensional item response theory model. *Japanese Journal for Research on Testing*, 19(1), 23–34. (written in Japanese)
 
 ### Submitted Articles
-- **Hijikata, K.**, Oka, M., & Okada, K. (2024). Sparse Bayesian joint modal estimation for exploratory item factor analysis. *arXiv*. http://arxiv.org/abs/2411.03992 (under review at *Journal of Educational and Behavioral Statistics*)
-- **Hijikata, K.**, Oka, M., Yamaguchi, K., & Okada, K. (2024). variationalDCM: An R package for variational Bayesian inference in diagnostic classification models. *PsyArXiv*. https://psyarxiv.com/f2sqd (under review at *Journal of Statistical Software*)
+- **Hijikata, K.**, Oka, M., & Okada, K. (2024). Sparse Bayesian joint modal estimation for exploratory item factor analysis. *arXiv*. [http://arxiv.org/abs/2411.03992] (under review at *Journal of Educational and Behavioral Statistics*)
+- **Hijikata, K.**, Oka, M., Yamaguchi, K., & Okada, K. (2024). variationalDCM: An R package for variational Bayesian inference in diagnostic classification models. *PsyArXiv*. [https://psyarxiv.com/f2sqd] (under review at *Journal of Statistical Software*)
 
 ## Presentations
 
@@ -32,5 +32,5 @@ author_profile: true
 
 ### variationalDCM
 An R package that performs variational Bayesian inference for diagnostic classification models
-- CRAN version: https://cran.r-project.org/package=variationalDCM
-- Development version: https://github.com/khijikata/variationalDCM
+- CRAN version: [https://cran.r-project.org/package=variationalDCM]
+- Development version: [https://github.com/khijikata/variationalDCM]
