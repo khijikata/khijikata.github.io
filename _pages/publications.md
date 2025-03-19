@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /__publications/
+permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
-## Publications
+## Articles
 
 ### Referred Articles
 - **Hijikata, K.**, & Okada, K. (2023). Rotation in constrained joint maximum likelihood estimation for multidimensional item response theory model. *Japanese Journal for Research on Testing*, 19(1), 23–34. (written in Japanese)
