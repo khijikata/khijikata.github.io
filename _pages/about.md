@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal webpage of Keiichiro HIJIKATA.
+This is the personal webpage of Keiichiro Hijikata.
