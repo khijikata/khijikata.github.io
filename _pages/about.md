@@ -8,3 +8,18 @@ redirect_from:
 ---
 
 This is the personal webpage of Keiichiro Hijikata.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
