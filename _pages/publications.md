@@ -10,15 +10,16 @@ author_profile: true
 ## Articles
 
 ### Referred Articles
+- **Hijikata, K.**, Oka, M., & Okada, K. (In Press). Sparse Bayesian joint modal estimation for exploratory item factor analysis. *Journal of Educational and Behavioral Statistics*. *arXiv*. [https://doi.org/10.48550/arXiv.2411.03992](https://doi.org/10.48550/arXiv.2411.03992) 
 - **Hijikata, K.**, & Okada, K. (2023). Rotation in constrained joint maximum likelihood estimation for multidimensional item response theory model. *Japanese Journal for Research on Testing*, 19(1), 23–34. (written in Japanese)
 
 ### Submitted Articles
-- **Hijikata, K.**, Oka, M., & Okada, K. (2024). Sparse Bayesian joint modal estimation for exploratory item factor analysis. *arXiv*. [https://doi.org/10.48550/arXiv.2411.03992](https://doi.org/10.48550/arXiv.2411.03992) (under review at *Journal of Educational and Behavioral Statistics*)
 - **Hijikata, K.**, Oka, M., Yamaguchi, K., & Okada, K. (2024). variationalDCM: An R package for variational Bayesian inference in diagnostic classification models. *PsyArXiv*. [https://doi.org/10.31234/osf.io/f2sqd](https://doi.org/10.31234/osf.io/f2sqd) (under review at *Journal of Statistical Software*)
 
 ## Presentations
 
 ### Invited Presentations
+- Okada, K., Oka, M., **Hijikata, K.**, Fukushima, K., Rinhi, H., & Yamaguchi, K. (2025). Variational Bayesian estimation for cognitive diagnostic models and its applications. The 19th Spring Conference of the Japanese Statistical Society, Tokyo, Japan. (in Japanese)
 - **Hijikata, K.**, Oka, M., Yamaguchi, K., & Okada, K. (2023). Variational Bayesian estimation in diagnostic classification models. The 6th International Conference on Econometrics and Statistics (EcoSta) 2023, Tokyo, Japan.
 
 ### Referred Presentations
