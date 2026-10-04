@@ -10,8 +10,8 @@ author_profile: true
 ## Articles
 
 ### Referred Articles
-- **Hijikata, K.**, Oka, M., & Okada, K. (In Press). Sparse Bayesian joint modal estimation for exploratory item factor analysis. *Journal of Educational and Behavioral Statistics*. *arXiv*. [https://doi.org/10.48550/arXiv.2411.03992](https://doi.org/10.48550/arXiv.2411.03992) 
-- **Hijikata, K.**, & Okada, K. (2023). Rotation in constrained joint maximum likelihood estimation for multidimensional item response theory model. *Japanese Journal for Research on Testing*, 19(1), 23–34. [https://doi.org/10.24690/jart.19.1_23](https://doi.org/10.24690/jart.19.1_23) (written in Japanese)
+- **Hijikata, K.**, Oka, M., & Okada, K. (2026). Sparse Bayesian joint modal estimation for exploratory item factor analysis. *Journal of Educational and Behavioral Statistics*. [https://doi.org/10.3102/10769986261467898](https://doi.org/10.3102/10769986261467898) 
+- **Hijikata, K.**, & Okada, K. (2023). Rotation in constrained joint maximum likelihood estimation for multidimensional item response theory model. *Japanese Journal for Research on Testing*, 19(1), 23–34. [https://doi.org/10.24690/jart.19.1_23](https://doi.org/10.24690/jart.19.1_23) (in Japanese)
 
 ### Submitted Articles
 - **Hijikata, K.**, Oka, M., Yamaguchi, K., & Okada, K. (2024). variationalDCM: An R package for variational Bayesian inference in diagnostic classification models. *PsyArXiv*. [https://doi.org/10.31234/osf.io/f2sqd](https://doi.org/10.31234/osf.io/f2sqd) (under review at *Journal of Statistical Software*)
@@ -33,5 +33,5 @@ author_profile: true
 
 ### variationalDCM
 An R package that performs variational Bayesian inference for diagnostic classification models
-- CRAN version: [https://cran.r-project.org/package=variationalDCM](https://cran.r-project.org/package=variationalDCM])
+- CRAN version: [https://CRAN.R-project.org/package=variationalDCM](https://CRAN.R-project.org/package=variationalDCM])
 - Development version: [https://github.com/khijikata/variationalDCM](https://github.com/khijikata/variationalDCM)
