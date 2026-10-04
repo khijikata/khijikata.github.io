@@ -33,5 +33,5 @@ author_profile: true
 
 ### variationalDCM
 An R package that performs variational Bayesian inference for diagnostic classification models
-- CRAN version: [https://CRAN.R-project.org/package=variationalDCM](https://CRAN.R-project.org/package=variationalDCM])
+- CRAN version: [https://cran.r-project.org/package=variationalDCM](https://cran.r-project.org/package=variationalDCM)
 - Development version: [https://github.com/khijikata/variationalDCM](https://github.com/khijikata/variationalDCM)
