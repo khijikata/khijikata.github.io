@@ -23,6 +23,7 @@ author_profile: true
 - **Hijikata, K.**, Oka, M., Yamaguchi, K., & Okada, K. (2023). Variational Bayesian estimation in diagnostic classification models. The 6th International Conference on Econometrics and Statistics (EcoSta) 2023, Tokyo, Japan.
 
 ### Referred Presentations
+- **Hijikata, K.**, Oka, M., & Okada, K. (2027). Variable selection and scalable estimation for polytomous attribute explanatory cognitive diagnostic models [Oral presentation]. The 2027 Annual Meeting of the National Council on Measurement in Education (NCME), Toronto, Canada.
 - Okada, K., **Hijikata, K.**, Oka, M., & Yamaguchi, K. (2024). variationalDCM 2.0: An updated R package for variational Bayesian inference in diagnostic classification models [Oral presentation]. The 18th International Joint Conference Computational and Financial Econometrics (CFE) - Computational and Methodological Statistics (CMStatistics) 2024, London, United Kingdom.
 - Okada, K., **Hijikata, K.**, & Oka, M. (2024). Bayesian joint modal estimation for sparse item factor analysis [Oral presentation]. International Meeting of Psychometric Society (IMPS) 2024, Prague, Czech.
 - Okada, K., **Hijikata, K.**, Oka, M., & Yamaguchi, K. (2023). Development of R Package for Variational Bayesian Estimation of Diagnostic Classification Models [Oral presentation]. The 12th conference of the Asian Regional Section of the International Association for Statistical Computing (IASC-ARS) 2023, Sydney, Australia.
